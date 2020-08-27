@@ -19,7 +19,7 @@ This repo shows my understanding and ability to create a dynamically sized hash 
     * large - containts 143,092 words.
     * small- contains 2 words.
 * Texts (second arg)
-    * Assortment of texts of varings sizes.
+    * Assortment of texts of various sizes.
     * Contain misspelled words.
 * Keys 
     * List of incorrect words in each text.
