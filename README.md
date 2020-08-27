@@ -3,10 +3,11 @@
 ## This program takes a .txt dictionary file of any size and loads it into memory via a HASH TABLE. 
 
 ### Usage:
+Where <file> is relative path to the file/s.
 ```
 ./speller.c <dictionary.txt> <text.txt>
 ```
-### Where <file> is relative path to the file/s.
+
 
 
 #### ONLY the HASH TABLE code (dictionary.c and dictionaryt.h) is my own. This repo is my implementation of CS50's "speller" problem and as such part of the code (speller.c) was pre completed.
