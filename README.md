@@ -10,7 +10,7 @@
 
 
 
-#### ONLY the HASH TABLE code (dictionary.c and dictionaryt.h) is my own. This repo is my implementation of CS50's "speller" problem and as such part of the code (speller.c) was pre completed.
+#### ONLY the HASH TABLE code (dictionary.c and dictionary.h) is my own. This repo is my implementation of CS50's "speller" problem and as such part of the code (speller.c) was pre completed.
 
 
 This repo shows my understanding and ability to create a dynamically sized hash table. Provided in the repo are a number of resources in order to try and test the program:
