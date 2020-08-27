@@ -3,7 +3,7 @@
 ## This program takes a .txt dictionary file of any size and loads it into memory via a HASH TABLE. 
 
 ### Usage:
-Where <file> is relative path to the file/s.
+
 ```
 ./speller.c <dictionary.txt> <text.txt>
 ```
